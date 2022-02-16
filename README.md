@@ -133,7 +133,7 @@ Note: Before using these tools try to use the built-in, bundled tools you get fr
 
 ### JS terminology
 
-In order to start with JS you sould be familiar with the basic terms below. Note that some of them may refer to a specific JS framework.
+In order to start with JS you should be familiar with the basic terms below. Note that some of them may refer to a specific JS framework.
 
 - CORS
 - Cache
